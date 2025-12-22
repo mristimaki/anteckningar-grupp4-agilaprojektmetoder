@@ -25,30 +25,30 @@
 ## Updates per team member
 
 ### Albrim
-**Igår:** Kollat info om quizapp  
-**Idag:** Beror lite på vad som kommer fram under mötet  
-**Blockerare:** Nej
+**Igår:** [Kollat info om quizapp]  
+**Idag:** [Beror lite på vad som kommer fram under mötet]  
+**Blockerare:** [Nej]
 
 ---
 
 ### Alvina
-**Igår:** Fixat frågor till quizapp  
-**Idag:** Info om programmeringspråk i quizapp, javascript  
-**Blockerare:** Nej
+**Igår:** [Fixat frågor till quizapp]  
+**Idag:** [Info om programmeringspråk i quizapp, javascript]  
+**Blockerare:** [Nej ]
 
 ---
 
 ### Ivana
-**Igår:** Info och kodningsexempel, förarbete för quizapp  
-**Idag:** Beror på vad som kommer fram under mötet  
-**Blockerare:** Uppdelningen av kod i gruppen
+**Igår:** [Info och kodningsexempel, förarbete för quizapp]  
+**Idag:** [Beror på vad som kommer fram under mötet]  
+**Blockerare:** [Uppdelningen av kod i gruppen]
 
 ---
 
 ### Maryam
-**Igår:** Kollat lite info för quizapp. Kollat lite på tidigare egenbyggd quizapp  
-**Idag:** Kollat och uppdaterat egen kod för förståelse för vår quizapp  
-**Blockerare:** Uppdelningen av kod i gruppen
+**Igår:** [Kollat lite info för quizapp. Kollat lite på tidigare egenbyggd quizapp]  
+**Idag:** [Kollat och uppdaterat egen kod för förståelse för vår quizapp]  
+**Blockerare:** [Uppdelningen av kod i gruppen]
 
 ---
 
@@ -84,30 +84,30 @@ Det låter som att vi alla är överens om att köra HTML, CSS och JS utan backe
 ## Updates per team member
 
 ### [Albrim]
-**Igår:** Kollade mer om HTML, CSS & JS hur Quiz app kan se ut
-**Idag:** Ska börja lite med CSS
-**Blockerare:** Inget än så länge
+**Igår:** [Kollade mer om HTML, CSS & JS hur Quiz app kan se ut]
+**Idag:** [Ska börja lite med CSS]
+**Blockerare:** [Inget än så länge]
 
 ---
 
 ### [Ivana]
-**Igår:** Fixade design för quiz-appen i Figma.
-**Idag:** Kollade lite i olika issues, bockade av några tasks. Planerar att ta en JS-task och börja jobba på det.
-**Blockerare:** Inget.
+**Igår:** [Fixade design för quiz-appen i Figma.]
+**Idag:** [Kollade lite i olika issues, bockade av några tasks. Planerar att ta en JS-task och börja jobba på det.]
+**Blockerare:** [Inget. ]
 
 ---
 
 ### [Maryam]
-**Igår:** Fixade HTML struktur
-**Idag:** Kollat annat app-quiz + eventuella html uppdateringar/ny task
-**Blockerare:** Funderingar i HTML
+**Igår:** [Fixade HTML struktur]
+**Idag:** [Kollat annat app-quiz + eventuella html uppdateringar/ny task]
+**Blockerare:** [Funderingar i HTML]
 
 ---
 
 ### [Sanel]
-**Igår:** Arrays, CSS-relaterat
-**Idag:** Kolla igenom tasks
-**Blockerare:** Funderingar kring flytta över till main
+**Igår:** [Arrays, CSS-relaterat]
+**Idag:** [Kolla igenom tasks]
+**Blockerare:** [Funderingar kring flytta över till main]
 
 ---
 
