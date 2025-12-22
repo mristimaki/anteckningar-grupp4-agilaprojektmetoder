@@ -23,7 +23,7 @@ så tidigt som möjligt i sprinten för att kunna identifiera och åtgärda prob
 
 ## User Stories & Uppgifter
 
-### 1. [Visa quiz-fråga]
+### 1. Visa quiz-fråga
 **Som [användare]** vill jag [se en quiz-fråga med svarsalternativ] så att [jag kan delta i quizet].
 
 **Tasks:**
@@ -32,7 +32,7 @@ så tidigt som möjligt i sprinten för att kunna identifiera och åtgärda prob
 
 ---
 
-### 2. [Välja svar]
+### 2. Välja svar
 **Som [användare]** vill jag [kunna klicka på ett svar] så att [jag kan välja mitt alternativ].
 
 **Tasks:**
@@ -41,7 +41,7 @@ så tidigt som möjligt i sprinten för att kunna identifiera och åtgärda prob
 
 ---
 
-### 3. [Visa feedback på svar]
+### 3. Visa feedback på svar
 **Som [användare]** vill jag [få feedback om mitt svar är rätt eller fel] så att [jag vet hur det gick].
 
 **Tasks:**
