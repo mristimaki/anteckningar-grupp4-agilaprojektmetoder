@@ -1,9 +1,9 @@
 # Sprint Planning - Sprint 2
 
 **Datum:** 2025-12-22  
-**Tid:** 18:00 - HH:MM  
+**Tid:** 18:00 - 19:00  
 **Sprint längd:** 1 vecka  
-**Sprint period:** 2025-12-22 till 2025-12-DD  
+**Sprint period:** 2025-12-22 till 2025-12-28  
 **Närvarande:**  Alvina, Maryam, Sanel, Albrim, Ivana
 **Frånvarande:**  Alla närvarande
 **Mötesroll - Anteckningar:** Maryam
