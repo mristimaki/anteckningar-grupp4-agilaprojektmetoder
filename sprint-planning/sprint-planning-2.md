@@ -59,6 +59,26 @@ skriv ner alla förslag på vad som känns VIKTIGAST och kom sen överens tillsa
 
 ---
 
+## 📋 Arbetssätt & Riktlinjer för denna sprint
+
+**Så här arbetar vi tillsammans:**
+
+### Git & GitHub
+- **Pull Requests:** [Hur pushar vi upp koden? Vem granskar?]
+- **Merge:** [Vilka mergar till main? När mergar vi?]
+
+### Kod & Struktur
+- **Filstruktur:** [Påminnelse om mappar: /css, /js etc.]
+- **Namnkonventioner:** [camelCase för JS? Hur namnger vi funktioner/variabler?]
+- **Kommentarer:** [När ska vi kommentera koden?]
+
+### Kommunikation
+- **Daily Scrums:** [Vilka dagar? Vilken tid?]
+- **Frågor & Hjälp:** Discord
+- **Blockerare:** [Hur tidigt ska vi säga till om vi kört fast?]
+
+---
+
 ## Anteckningar
 
 [Eventuella extra anteckningar från mötet]
