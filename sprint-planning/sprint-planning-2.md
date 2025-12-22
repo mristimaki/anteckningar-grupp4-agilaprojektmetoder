@@ -4,10 +4,10 @@
 **Tid:** 18:00 - 19:00  
 **Sprint längd:** 1 vecka  
 **Sprint period:** 2025-12-22 till 2025-12-28  
-**Närvarande:**  Alvina, Maryam, Sanel, Albrim, Ivana
-**Frånvarande:**  Alla närvarande
-**Mötesroll - Anteckningar:** Maryam
-**Mötesroll - Scrum Master:** Alvina
+**Närvarande:**  Alvina, Maryam, Sanel, Albrim, Ivana   
+**Frånvarande:**  Alla närvarande      
+**Mötesroll - Anteckningar:** Maryam    
+**Mötesroll - Scrum Master:** Alvina    
 
 ---
 
