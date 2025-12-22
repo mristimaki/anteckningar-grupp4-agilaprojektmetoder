@@ -47,7 +47,6 @@ så tidigt som möjligt i sprinten för att kunna identifiera och åtgärda prob
 **Tasks:**
 - [ JS ] [Kontrollera rätt/fel svar]
 - [ JS ] [Kontrollera hur många rätt svar (increment för varje rätt)]
-- [ ] [Uppgift 2]
 
 ---
 
