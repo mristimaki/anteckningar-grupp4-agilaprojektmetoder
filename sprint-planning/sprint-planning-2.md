@@ -4,9 +4,10 @@
 **Tid:** 18:00 - HH:MM  
 **Sprint längd:** 1 vecka  
 **Sprint period:** 2025-12-22 till 2025-12-DD  
-**Närvarande:**  
-**Frånvarande:**  
+**Närvarande:**  Alvina, Maryam, Sanel, Albrim, Ivana
+**Frånvarande:**  Alla närvarande
 **Mötesroll - Anteckningar:** Maryam
+**Mötesroll - Scrum Master:** Alvina
 
 ---
 
@@ -14,34 +15,40 @@
 
 **Vad vill vi uppnå denna sprint?**
 ```
-[Beskriv i 1-2 meningar vad ni ska få klart, diskutera sprintmål 5-10 min, 
-skriv ner alla förslag på vad som känns VIKTIGAST och kom sen överens tillsammans.]
+Vi försöker implementera och mergea funktionalitet för att visa quiz-frågor, välja svar och visa feedback 
+så tidigt som möjligt i sprinten för att kunna identifiera och åtgärda problem. Parallellt färdigställer vi våra rapporter.
 ```
 
 ---
 
 ## User Stories & Uppgifter
 
-### 1. [Titel på user story]
-**Som [roll]** vill jag [handling] så att [värde].
+### 1. [Visa quiz-fråga]
+**Som [användare]** vill jag [se en quiz-fråga med svarsalternativ] så att [jag kan delta i quizet].
 
 **Tasks:**
-- [ ] [Uppgift 1]
-- [ ] [Uppgift 2]
-- [ ] [Uppgift 3]
-
-**Ansvarig:** [Namn]
+- [ CSS ] [Knappar (start, svar, nästa, play again)]
+- [ CSS ] [Mobilanpassning ]
+- [ JS ] [Endast e ]
 
 ---
 
-### 2. [Titel på user story]
-**Som [roll]** vill jag [handling] så att [värde].
+### 2. [Välja svar]
+**Som [användare]** vill jag [kunna klicka på ett svar] så att [jag kan välja mitt alternativ].
 
 **Tasks:**
-- [ ] [Uppgift 1]
-- [ ] [Uppgift 2]
+- [ JS ] [Endast ett svar kan vara valt]
+- [ CSS ] [Valet markeras visuellt]
 
-**Ansvarig:** [Namn]
+---
+
+### 3. [Visa feedback på svar]
+**Som [användare]** vill jag [få feedback om mitt svar är rätt eller fel] så att [jag vet hur det gick].
+
+**Tasks:**
+- [ JS ] [Kontrollera rätt/fel svar]
+- [ JS ] [Kontrollera hur många rätt svar (increment för varje rätt)]
+- [ ] [Uppgift 2]
 
 ---
 
@@ -55,7 +62,7 @@ skriv ner alla förslag på vad som känns VIKTIGAST och kom sen överens tillsa
 ## Nästa Daily Scrum
 
 **Datum:** 2025-12-23
-**Tid:** [HH:MM] 
+**Tid:** 13:30 
 
 ---
 
@@ -64,21 +71,19 @@ skriv ner alla förslag på vad som känns VIKTIGAST och kom sen överens tillsa
 **Så här arbetar vi tillsammans:**
 
 ### Git & GitHub
-- **Pull Requests:** [Hur pushar vi upp koden? Vem granskar?]
-- **Merge:** [Vilka mergar till main? När mergar vi?]
+- **Pull Requests:** När du skapat en pull request, skriv i general-chatten för snabbare code review och merge.
+- **Merge:** Så fort den fått review.
 
 ### Kod & Struktur
-- **Filstruktur:** [Påminnelse om mappar: /css, /js etc.]
-- **Namnkonventioner:** [camelCase för JS? Hur namnger vi funktioner/variabler?]
-- **Kommentarer:** [När ska vi kommentera koden?]
+- **Filstruktur:** Påminnelse om mappar/filer: en fil för varje funktion, script.js anropar funktionerna.
+- **Kommentarer:** Signera med namn när det är mergeat, för att underlätta vem man ska kontakta vid funderingar
 
 ### Kommunikation
-- **Daily Scrums:** [Vilka dagar? Vilken tid?]
 - **Frågor & Hjälp:** Discord
-- **Blockerare:** [Hur tidigt ska vi säga till om vi kört fast?]
+- **Blockerare:** Gör ett försök att lösa problemet själv, men tveka inte att be om hjälp från teamet om du inte kommer vidare snabbt. Givet den begränsade tiden denna sprint prioriterar vi att få tasks färdiga över att lösa allt individuellt.
 
 ---
 
 ## Anteckningar
 
-[Eventuella extra anteckningar från mötet]
+Observera att sprinten påverkas av julledigheter och få arbetsdagar, vilket begränsar den totala tiden för utveckling.
