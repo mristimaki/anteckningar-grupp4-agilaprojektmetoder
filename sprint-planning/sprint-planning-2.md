@@ -29,7 +29,6 @@ så tidigt som möjligt i sprinten för att kunna identifiera och åtgärda prob
 **Tasks:**
 - [ CSS ] [Knappar (start, svar, nästa, play again)]
 - [ CSS ] [Mobilanpassning ]
-- [ JS ] [Endast e ]
 
 ---
 
