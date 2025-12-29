@@ -1,11 +1,12 @@
-# Sprint Planning - Sprint [Nummer]
+# Sprint Planning - Sprint 2
 
-**Datum:** [ÅÅÅÅ-MM-DD]  
-**Sprint längd:** 
-**Sprint period:** [Start-datum] till [Slut-datum]  
-**Närvarande:**  
-**Frånvarande:**  
-**Mötesroll - Anteckningar:**
+**Datum:** 2025-12-29
+**Sprint längd:** 1 vecka
+**Sprint period:** 2025-12-29 till 2026-01-02  
+**Närvarande:**  Alvina, Albrim, Ivana, Sanel, Maryam
+**Frånvarande:**  Alla närvarande
+**Mötesroll - Anteckningar:** Maryam
+**Mötesroll - Scrum Master:** Alvina
 
 ---
 
@@ -13,34 +14,18 @@
 
 **Vad vill vi uppnå denna sprint?**
 ```
-[Beskriv i 1-2 meningar vad ni ska få klart, diskutera sprintmål 5-10 min, 
-skriv ner alla förslag på vad som känns VIKTIGAST och kom sen överens tillsammans.]
+Fokusera på att få till en bra resovisning och individuella rapporter. Om det finns tid så ska vi försöka färdigställa så mycket som möjligt på vår CSS.
 ```
 
 ---
 
 ## User Stories & Uppgifter
 
-### 1. [Titel på user story]
-**Som [roll]** vill jag [handling] så att [värde].
+### 1. Som grupp vill vi genomföra en bra redovisning av arbetet så att vi kan får ett bra betyg.
+**Som grupp** vill vi förbereda inför redovisning och inlämning så att vi kan få ett bra betyg.
 
 **Tasks:**
-- [ ] [Uppgift 1]
-- [ ] [Uppgift 2]
-- [ ] [Uppgift 3]
-
-**Ansvarig:** [Namn]
-
----
-
-### 2. [Titel på user story]
-**Som [roll]** vill jag [handling] så att [värde].
-
-**Tasks:**
-- [ ] [Uppgift 1]
-- [ ] [Uppgift 2]
-
-**Ansvarig:** [Namn]
+- [ Redovisning ] [ Poewrpoint - förberedelser ]
 
 ---
 
@@ -53,11 +38,11 @@ skriv ner alla förslag på vad som känns VIKTIGAST och kom sen överens tillsa
 
 ## Nästa Daily Scrum
 
-**Datum:** [ÅÅÅÅ-MM-DD]  
-**Tid:** [HH:MM] 
+**Datum:** 2025-12-30
+**Tid:** Efter lektion
 
 ---
 
 ## Anteckningar
 
-[Eventuella extra anteckningar från mötet]
+Sitta och försöka lösa merge konflikter efter detta möte
