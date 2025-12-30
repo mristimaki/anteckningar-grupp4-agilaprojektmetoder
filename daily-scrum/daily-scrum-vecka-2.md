@@ -1,8 +1,8 @@
 # Daily Scrum - 2025-12-23
 
-**Scrum Master:** [Namn]  
-**Sekreterare:** [Namn]  
-**Tid:** [HH:MM]  
+**Scrum Master:** Maryam    
+**Sekreterare:** Alvina       
+**Tid:** 13:30  
 
 ---
 
@@ -10,61 +10,46 @@
 
 | Deltagare | Närvarande |
 |-----------|------------|
-| Albrim    | ✅ / ❌ |
-| Alvina    | ✅ / ❌ |
-| Ivana     | ✅ / ❌ |
-| Maryam    | ✅ / ❌ |
-| Sanel     | ✅ / ❌ |
+| Albrim    | ✅ |
+| Alvina    | ✅ |
+| Ivana     | ❌ |
+| Maryam    | ✅ |
+| Sanel     | ✅ |
 
-**Frånvarande:** [Namn - anledning]
+**Frånvarande:** Ivana - Bortrest
 
 ---
 
 ## Updates per team member
 
-### [Namn]
-**Igår:** [Vad gjorde jag igår?]  
-**Idag:** [Vad ska jag göra idag?]  
-**Blockerare:** [Några hinder?]
+### Albrim
+**Igår:** Hann inte med att göra något  
+**Idag:** Fortsätta med CSS 
+**Blockerare:** Nej
 
 ---
 
-### [Namn]
-**Igår:**   
-**Idag:**   
-**Blockerare:** 
+### Alvina
+**Igår:** Fixat till problem med startfunktionen
+**Idag:** Kolla igenom click handler branch och resultat-funktion
+**Blockerare:** Nej
 
 ---
 
-### [Namn]
-**Igår:**   
-**Idag:**   
-**Blockerare:** 
+### Maryam
+**Igår:** Fått klart click-handler funktionen
+**Idag:** Flyttat startfunktionen som råkat hamna i script igen samt fixat startfunktion.
+**Blockerare:** Nej
 
 ---
 
-### [Namn]
-**Igår:**   
-**Idag:**   
-**Blockerare:** 
-
----
-
-### [Namn]
-**Igår:**   
-**Idag:**   
-**Blockerare:** 
+### Sanel
+**Igår:** Gick igenom resultat-funktionen för att få det att passa med egen funktion
+**Idag:** Börja med funktion för antal rätt svar
+**Blockerare:** Nej
 
 ---
 
 ## Beslut & Noteringar
 
-[Eventuella beslut eller viktiga diskussioner]
-
----
-
-## Action Items
-
-| Åtgärd | Ansvarig | Deadline |
-|--------|----------|----------|
-| | | |
+Mergea ihop allting så att vi kan se ett resultat
