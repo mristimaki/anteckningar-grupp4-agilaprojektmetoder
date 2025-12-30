@@ -1,4 +1,4 @@
-# Sprint Planning - Sprint 2
+# Sprint Planning - Sprint 3
 
 **Datum:** 2025-12-29   
 **Sprint längd:** 1 vecka   
