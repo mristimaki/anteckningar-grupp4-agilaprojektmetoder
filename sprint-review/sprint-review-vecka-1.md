@@ -2,7 +2,7 @@
 
 **Datum:** 2025-12-19  
 **Scrum Master:** Ivana  
-**Sekreterare:**  
+**Sekreterare:**  Ivana
 **Närvarande:** Albrim, Sanel, Alvina, Ivana
 
 ---
