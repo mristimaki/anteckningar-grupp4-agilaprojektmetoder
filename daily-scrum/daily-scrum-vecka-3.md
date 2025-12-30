@@ -52,7 +52,7 @@
 
 ## Beslut & Noteringar
 
-- Eventuellt kolla resultat-sidan och timer för att gå till nästa fråga
+- Eventuellt kolla resultat-sidan och timer för att gå till nästa fråga (längre tid än det är nu)
 - Färdigställa anteckningar på GitHub på fredag efter mötet (Maryam)
 - Göra en mall för alla att skicka in (anteckningar + projekt) (Ivana)
 - Fredag: Review och Retrospective (bestäm tid i gruppen)
