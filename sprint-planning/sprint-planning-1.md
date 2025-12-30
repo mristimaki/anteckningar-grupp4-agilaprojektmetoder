@@ -8,6 +8,7 @@
 **Sprint period:** 2025-12-15 till 2025-12-19  
 **Närvarande:** Ivana, Maryam, Sanel, Albrim, Alvina  
 **Frånvarande:** Alla närvarande  
+**Mötesroll - Anteckningar:** Ivana     
 **Mötesroll - Anteckningar:** Ivana
 
 ---

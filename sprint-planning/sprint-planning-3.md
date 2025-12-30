@@ -1,12 +1,12 @@
 # Sprint Planning - Sprint 2
 
-**Datum:** 2025-12-29
-**Sprint längd:** 1 vecka
+**Datum:** 2025-12-29   
+**Sprint längd:** 1 vecka   
 **Sprint period:** 2025-12-29 till 2026-01-02  
-**Närvarande:**  Alvina, Albrim, Ivana, Sanel, Maryam
-**Frånvarande:**  Alla närvarande
-**Mötesroll - Anteckningar:** Maryam
-**Mötesroll - Scrum Master:** Alvina
+**Närvarande:**  Alvina, Albrim, Ivana, Sanel, Maryam   
+**Frånvarande:**  Alla närvarande   
+**Mötesroll - Anteckningar:** Maryam    
+**Mötesroll - Scrum Master:** Alvina    
 
 ---
 
@@ -39,10 +39,10 @@ Fokusera på att få till en bra resovisning och individuella rapporter. Om det 
 ## Nästa Daily Scrum
 
 **Datum:** 2025-12-30
-**Tid:** Efter lektion
+**Tid:** 11:30
 
 ---
 
 ## Anteckningar
 
-Sitta och försöka lösa merge konflikter efter detta möte
+Vi ska sitta och försöka lösa nuvarande merge konflikter efter detta möte.
