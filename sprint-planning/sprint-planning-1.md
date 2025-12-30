@@ -9,7 +9,7 @@
 **Närvarande:** Ivana, Maryam, Sanel, Albrim, Alvina  
 **Frånvarande:** Alla närvarande  
 **Mötesroll - Anteckningar:** Ivana     
-**Mötesroll - Anteckningar:** Ivana
+**Mötesroll - Scrum Master:** Ivana
 
 ---
 
