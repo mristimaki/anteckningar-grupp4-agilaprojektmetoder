@@ -1,8 +1,8 @@
-# Daily Scrum - [ÅÅÅÅ-MM-DD]
+# Daily Scrum - 2025-12-30
 
-**Scrum Master:** [Namn]  
-**Sekreterare:** [Namn]  
-**Tid:** [HH:MM]  
+**Scrum Master:** Alvina  
+**Sekreterare:** Maryam  
+**Tid:** 11:30  
 
 ---
 
@@ -10,61 +10,49 @@
 
 | Deltagare | Närvarande |
 |-----------|------------|
-| Albrim    | ✅ / ❌ |
-| Alvina    | ✅ / ❌ |
-| Ivana     | ✅ / ❌ |
-| Maryam    | ✅ / ❌ |
-| Sanel     | ✅ / ❌ |
+| Albrim    | ✅ |
+| Alvina    | ✅ |
+| Ivana     | ✅ |
+| Maryam    | ✅ |
+| Sanel     | ❌ |
 
-**Frånvarande:** [Namn - anledning]
+**Frånvarande:** Sanel - Jobb
 
 ---
 
 ## Updates per team member
 
-### [Namn]
-**Igår:** [Vad gjorde jag igår?]  
-**Idag:** [Vad ska jag göra idag?]  
-**Blockerare:** [Några hinder?]
+### Albrim
+**Igår:** Förberedde inför presentation  
+**Idag:** Fokus på individuella uppgiften  
+**Blockerare:** Nej     
 
 ---
 
-### [Namn]
-**Igår:**   
-**Idag:**   
-**Blockerare:** 
+### Alvina
+**Igår:** Förberedde inför presentation samt löste konflikter på github     
+**Idag:** Fokus på individuella uppgiften       
+**Blockerare:** Nej     
 
 ---
 
-### [Namn]
-**Igår:**   
-**Idag:**   
-**Blockerare:** 
+### Ivana
+**Igår:** Försökte fixa sista CSS för att matcha UI och progress-bar, förberedde inför redovisning  
+**Idag:** Fokus på individuella uppgiften   
+**Blockerare:** Nej     
 
 ---
 
-### [Namn]
-**Igår:**   
-**Idag:**   
-**Blockerare:** 
-
----
-
-### [Namn]
-**Igår:**   
-**Idag:**   
-**Blockerare:** 
+### Maryam
+**Igår:** Fixat inför redovisning   
+**Idag:** Fokus på individuella uppgiften - eventuellt kika på resultat-sidan   
+**Blockerare:** Nej 
 
 ---
 
 ## Beslut & Noteringar
 
-[Eventuella beslut eller viktiga diskussioner]
-
----
-
-## Action Items
-
-| Åtgärd | Ansvarig | Deadline |
-|--------|----------|----------|
-| | | |
+- Eventuellt kolla resultat-sidan och timer för att gå till nästa fråga
+- Färdigställa anteckningar på GitHub på fredag efter mötet (Maryam)
+- Göra en mall för alla att skicka in (anteckningar + projekt) (Ivana)
+- Fredag: Review och Retrospective (bestäm tid i gruppen)
