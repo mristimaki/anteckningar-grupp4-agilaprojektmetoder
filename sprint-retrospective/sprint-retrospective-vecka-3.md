@@ -44,7 +44,7 @@
 | Vad ska vi förbättra? | Hur gör vi det? | Ansvarig |
 |----------------------|-----------------|----------|
 | Kommunikation kring ändringar | Ta upp förslag på ändringar på möte innan implementation | Alla |
-| Forum för diskussion | Bestämma när/var vi tar upp större ändringar (ex. före Sprint Review) | Scrum Master |
+| Forum för diskussion | Bestämma när/var vi tar upp större ändringar (ex. före Sprint Review) | Alla |
 | Våga dela idéer | Skapa trygg miljö där förslag välkomnas utan risk för negativa reaktioner | Alla |
 
 **Konkret exempel att lära av:**
