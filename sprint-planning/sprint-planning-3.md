@@ -14,7 +14,7 @@
 
 **Vad vill vi uppnå denna sprint?**
 ```
-Fokusera på att få till en bra resovisning och individuella rapporter. Om det finns tid så ska vi försöka färdigställa så mycket som möjligt på vår CSS.
+Fokusera på att få till en bra redovisning och individuella rapporter. Om det finns tid så ska vi försöka färdigställa så mycket som möjligt på vår CSS.
 ```
 
 ---
